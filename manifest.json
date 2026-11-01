@@ -1,0 +1,9 @@
+{
+  "id": "claude-mention",
+  "name": "Claude Mention",
+  "version": "0.2.2",
+  "minAppVersion": "1.5.0",
+  "description": "Press Enter on an @claude line to have Claude Code read the note and carry out the instruction.",
+  "author": "aibahizuki",
+  "isDesktopOnly": true
+}
